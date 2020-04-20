@@ -1,4 +1,4 @@
-# Social-Ebracing-
+# Social-Ebracing-Index
 Trying to defing a metrics for social embracing using clustering
 
 COVID-19 Clustering Model for defining Social Embracing Index
