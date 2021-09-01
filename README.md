@@ -1,5 +1,5 @@
 # Social-Ebracing-Index
-Trying to defing a metrics for social embracing using clustering
+Trying to define a metrics for social embracing using clustering
 
 COVID-19 Clustering Model for defining Social Embracing Index
 Our Hypothesis defines the social embracing index which defines the spreading of the diseses like covid-19, swin flu, Ebola etc.
